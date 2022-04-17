@@ -58,7 +58,7 @@ let browseIndex = 0
 const music = new Audio('css/Harry_Potter_Theme_Song_Hedwigs_Theme.mp3')
 
 // data from API
-fetch(`http://hp-api.herokuapp.com/api/characters/house/slytherin`)
+fetch(`https://hp-api.herokuapp.com/api/characters/house/slytherin`)
     .then(res => res.json())
     .then(data => {
         console.log(data)
@@ -68,7 +68,7 @@ fetch(`http://hp-api.herokuapp.com/api/characters/house/slytherin`)
     .catch(err => {
         console.log(`error ${err}`)
     })
-fetch(`http://hp-api.herokuapp.com/api/characters/house/ravenclaw`)
+fetch(`https://hp-api.herokuapp.com/api/characters/house/ravenclaw`)
     .then(res => res.json())
     .then(data => {
         console.log(data)
@@ -78,7 +78,7 @@ fetch(`http://hp-api.herokuapp.com/api/characters/house/ravenclaw`)
     .catch(err => {
         console.log(`error ${err}`)
     })
-fetch(`http://hp-api.herokuapp.com/api/characters/house/gryffindor`)
+fetch(`https://hp-api.herokuapp.com/api/characters/house/gryffindor`)
     .then(res => res.json())
     .then(data => {
         console.log(data)
@@ -88,7 +88,7 @@ fetch(`http://hp-api.herokuapp.com/api/characters/house/gryffindor`)
     .catch(err => {
         console.log(`error ${err}`)
     })
-fetch(`http://hp-api.herokuapp.com/api/characters/house/hufflepuff`)
+fetch(`https://hp-api.herokuapp.com/api/characters/house/hufflepuff`)
     .then(res => res.json())
     .then(data => {
         console.log(data)
@@ -98,7 +98,7 @@ fetch(`http://hp-api.herokuapp.com/api/characters/house/hufflepuff`)
     .catch(err => {
         console.log(`error ${err}`)
     })
-fetch(`http://hp-api.herokuapp.com/api/characters/staff`)
+fetch(`https://hp-api.herokuapp.com/api/characters/staff`)
     .then(res => res.json())
     .then(data => {
         console.log(data)
@@ -108,7 +108,7 @@ fetch(`http://hp-api.herokuapp.com/api/characters/staff`)
     .catch(err => {
         console.log(`error ${err}`)
     })
-fetch(`http://hp-api.herokuapp.com/api/characters`)
+fetch(`https://hp-api.herokuapp.com/api/characters`)
     .then(res => res.json())
     .then(data => {
         console.log(data)
