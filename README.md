@@ -20,3 +20,5 @@ If included in the API, will show character's:\
 
 &emsp;Wand material, core, and length\
 &emsp;Patronus Form
+
+Use of HTML5, CSS3 and JS.
