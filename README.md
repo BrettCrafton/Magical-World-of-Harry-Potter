@@ -7,18 +7,22 @@ Utilizing the API from http://hp-api.herokuapp.com/.
 
 Select by School House, Staff, or All.
 
-If included in the API, will show character's:\
-&emsp;Name\
-&emsp;Nickname(s)\
-&emsp;Actor(s)
+If included in the API, will show character's:
 
-&emsp;Species\
-&emsp;Gender\
-&emsp;Eye Color\
-&emsp;Hair Color\
-&emsp;Status (alive or dead)\
-&emsp;DOB\
-&emsp;Year of Birth
+<ul>
+  <li>Name</li>
+  <li>Nickname(s)</li>
+  <li>Actor(s)</li>
+  <br>
+  <li>Species</li>
+  <li>Gender</li>
+  <li>Eye Color</li>
+  <li>Hair Color</li>
+  <li>Status (alive or dead)</li>
+  <li>DOB</li>
+  <li>Year of Birth</li>
+  <br>
+  <li>Wand material, core, and length</li>
+  <li>Patronus Form</li>
+</ul>
 
-&emsp;Wand material, core, and length\
-&emsp;Patronus Form
