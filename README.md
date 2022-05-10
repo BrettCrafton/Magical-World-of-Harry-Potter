@@ -1,6 +1,6 @@
 # Magical World of Harry Potter
 
-<a href="https://github.com/BrettCrafton/Magical-World-of-Harry-Potter" target="_blank" rel="noreferrer"> <img src="https://github.com/BrettCrafton/BrettCrafton/blob/main/assets/Harry%20Potter%20gif.gif?raw=true" alt="project example"/> </a>
+<a href="https://brettcrafton.com/Portfolio/Harry%20Potter/index.html" target="_blank" rel="noreferrer"> <img src="https://github.com/BrettCrafton/BrettCrafton/blob/main/assets/Harry%20Potter%20gif.gif?raw=true" alt="project example"/> </a>
 
 Character discriptions and images from the World of Harry Potter.
 Utilizing the API from http://hp-api.herokuapp.com/.
@@ -26,3 +26,4 @@ If included in the API, will show character's:
   <li>Patronus Form</li>
 </ul>
 
+Live Site at: <a href="https://brettcrafton.com/Portfolio/Harry%20Potter/index.html" target="_blank" rel="noreferrer"> BrettCrafton.com </a> 
