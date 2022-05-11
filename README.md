@@ -2,7 +2,7 @@
 
 Character discriptions and images from the World of Harry Potter.
 
-Live Project at: <a href="https://brettcrafton.com/Portfolio/Harry%20Potter/index.html" target="_blank" rel="noreferrer"> BrettCrafton.com </a>
+Live Project at: <a href="https://brettcrafton.com/Portfolio/Harry%20Potter/index.html" target="_blank" rel="noreferrer"> https://brettcrafton.com/Portfolio/Harry%20Potter/index.html </a>
 
 <a href="https://brettcrafton.com/Portfolio/Harry%20Potter/index.html" target="_blank" rel="noreferrer"> <img src="https://github.com/BrettCrafton/BrettCrafton/blob/main/assets/Harry%20Potter%20gif.gif?raw=true" alt="project example"/> </a>
 
