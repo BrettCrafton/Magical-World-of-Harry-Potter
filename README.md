@@ -1,6 +1,6 @@
 # Magical World of Harry Potter
 
-Character discriptions and images from the World of Harry Potter.
+Character descriptions and images from the World of Harry Potter.
 
 Live Project at: <a href="https://brettcrafton.com/Portfolio/Harry%20Potter/index.html" target="_blank" rel="noreferrer"> https://brettcrafton.com/Portfolio/Harry%20Potter/index.html </a>
 
