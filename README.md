@@ -48,6 +48,7 @@ If included in the API, will show character's:
 ## Other Projects:
 
 **You Can't Afford Rent:** https://github.com/BrettCrafton/You-Cant-Afford-Rent
+<a href="https://you-cant-afford-rent.herokuapp.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/BrettCrafton/BrettCrafton/blob/main/assets/you%20cant%20afford%20rent%20gif.gif?raw=true" alt="project example" width="600"/> </a>
 
 **Cocktail Recipes:** https://github.com/BrettCrafton/Cocktail-Recipes
 <a href="https://brettcrafton.com/Portfolio/Bar%20API/index.html" target="_blank" rel="noreferrer"> <img src="https://github.com/BrettCrafton/BrettCrafton/blob/main/assets/Cocktail%20Recipe%20gif.gif?raw=true" alt="project example"/> </a>
